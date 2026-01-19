@@ -1,0 +1,6 @@
+Conteúdo: 
+
+- pandas
+- streamlit
+- plotly
+- openpyxl
